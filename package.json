@@ -2,6 +2,23 @@
   "name": "redfox-studios",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "description": "This repository is for our website.",
+  "keywords": ["website", "nextjs"],
+  "homepage": "https://github.com/redfox-studios/redfox-studios",
+  "bugs": {
+    "url": "https://github.com/redfox-studios/redfox-studios/issues",
+    "email": "dev@redfox-studios.org"
+  },  
+  "author": {
+    "name": "RedFox Studios",
+    "email": "support@redfox-studios.org",
+    "url": "https://redfox-studios.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redfox-studios/redfox-studios.git"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
