@@ -131,3 +131,9 @@
   background: #6ee7b7;
 }
 
+img, video, canvas,
+svg, iframe, embed, object {
+  user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+}
