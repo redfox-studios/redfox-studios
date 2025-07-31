@@ -1,9 +1,8 @@
-# .github/workflows/lint.yml
 name: Lint
 
 on:
   pull_request:
-    branches: [main]
+    branches: [dev, beta, main]
 
 jobs:
   lint:
