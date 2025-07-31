@@ -6,7 +6,11 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/" # Root directory
+    directory: "/"
     schedule:
       interval: "weekly"
     target-branch: "dev"
+    assignees:
+      - pilot2254
+    reviewers:
+      - pilot2254
