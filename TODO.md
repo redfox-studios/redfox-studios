@@ -19,7 +19,7 @@
 ## DESIGN SYSTEM
 
 - [ ] Define Color Palette (light + dark variants). Inspiration: [Supabase](https://supabase.com/)
-- [ ] Switch from using OKLCH to RGBA or HEX. OKLCH may be better, but we hate it here.
+- [x] Switch from using OKLCH to RGBA or HEX. OKLCH may be better, but we hate it here.
 - [ ] Implement Tailwind Theme Tokens
 - [ ] Typography - Import and apply Geist Sans/Mono
   - [ ] Add fallback fonts
