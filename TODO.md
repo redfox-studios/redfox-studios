@@ -19,6 +19,7 @@
 ## DESIGN SYSTEM
 
 - [ ] Define Color Palette (light + dark variants). Inspiration: [Supabase](https://supabase.com/)
+- [ ] Switch from using OKLCH to tailwind colors in globals.css.
 - [ ] Implement Tailwind Theme Tokens
 - [ ] Typography - Import and apply Geist Sans/Mono
   - [ ] Add fallback fonts
